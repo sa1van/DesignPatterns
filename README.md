@@ -1,3 +1,3 @@
 # DesignPatterns
-Learning Design Patterns... open master branch
+Learning Design Patterns...
 
